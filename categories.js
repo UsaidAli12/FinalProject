@@ -1,0 +1,20 @@
+export const categories = [
+    'Venue',
+    'Catering',
+    'Photography and Videography',
+    'Music and Entertainment',
+    'Florist',
+    'Attire',
+    'Beauty and Grooming',
+    'Event Planning and Coordination',
+    'Stationery',
+    'Transportation',
+    'Rentals',
+    'Officiant',
+    'Favors and Gifts',
+    'Legal Requirements',
+    'Security',
+    'Insurance',
+    'Honeymoon Planning',
+  ];
+  
